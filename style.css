@@ -17,7 +17,7 @@ h2 {
   font-size: 20px;
 }
 a {
-  color: yellow;
+  color: green;
 }
 a:hover {
   text-decoration: none;
@@ -46,15 +46,21 @@ a:hover {
   text-align: center;
   padding: 30px;
   background: #000021;
-  color: lightgrey;
+  color: #397FAA;
+}
+
 }
 .card{
+  border:3px solid:black;
   padding: 50px;
   font-weight: lighter;
   text-align: center;
 }
+#footer p {
+	font-size: 20px;
+}
 #footer a {
-  color: pink;
+  color: #397FAA;
   font-size: 30px;
 }
 #footer a:hover {
